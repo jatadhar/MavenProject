@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.prime.MavenPrime.MavTest" duration-ms="23" started-at="2018-08-08T14:55:23Z" finished-at="2018-08-08T14:55:23Z">
+  <suite name="com.prime.MavenPrime.MavTest" duration-ms="2" started-at="2018-08-09T15:09:09Z" finished-at="2018-08-09T15:09:09Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="23" started-at="2018-08-08T14:55:23Z" finished-at="2018-08-08T14:55:23Z">
+    <test name="Command line test" duration-ms="2" started-at="2018-08-09T15:09:09Z" finished-at="2018-08-09T15:09:09Z">
     </test> <!-- Command line test -->
   </suite> <!-- com.prime.MavenPrime.MavTest -->
 </testng-results>
